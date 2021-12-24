@@ -7,7 +7,7 @@ a {
   text-decoration: none;
 }
 button {
-  outline: none;
+  outline: none !important;
 }
 ul {
   padding: 0;
